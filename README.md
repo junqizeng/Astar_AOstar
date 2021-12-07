@@ -52,7 +52,7 @@ python ./main
 
 ### 初始界面
 
-<img title="" src="file:///./readme_imgs/0.png" alt="" width="482" data-align="center">
+<img title="" src="file:./readme_imgs/0.png" alt="" width="482" data-align="center">
 
 在该界面下可点击A\*算法、AO\*算法选择要执行的算法
 
@@ -64,7 +64,7 @@ A\*算法演示时，使用A\*算法对提前设定好的迷宫进行寻路。
 
 然后根据用户的操作，对指定步骤解进行可视化，可视化迷宫为在线生成。
 
-<img title="" src="file:///./readme_imgs/1.png" alt="" width="489" data-align="center">
+<img title="" src="file:./readme_imgs/1.png" alt="" width="489" data-align="center">
 
 ### AO\*算法
 
@@ -76,7 +76,7 @@ AO\*算法演示时，使用AO\*算法对提前设定好的与或图进行求解
 
 需要说明的是，由于与或图用程序绘图的效果不是很好，因此程序中展示的与或图是由离线手动制作的，但搜索过程中的连接步骤是由程序在线计算得出，./algorithms/AOstar.py 是AO\*算法的具体实现。
 
-<img title="" src="file:///./readme_imgs/2.png" alt="" data-align="center" width="495">
+<img title="" src="file:./readme_imgs/2.png" alt="" data-align="center" width="495">
 
 ## 其他说明
 
