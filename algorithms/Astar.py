@@ -8,7 +8,7 @@ class PriorityQueue:
         self.index = 0
 
     def add(self, item, priority):
-        heapq.heappush(self.priorityqueue, (-priority, self.index, item))
+        heapq.heappush(self.priorityqueue, (priority, self.index, item))
         self.index += 1
         return
 
