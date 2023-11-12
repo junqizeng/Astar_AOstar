@@ -10,7 +10,7 @@ Python 3.6.0
 
 github链接：[GitHub - junqizeng/Astar_AOstar: 使用pyhton实现A\*和AO\*](https://github.com/junqizeng/Astar_AOstar)
 
-2023.11.12更新：发现A*算法实现bug，已修复，但README展示图并未修复，请暂不要参考
+2023.11.12更新：发现A*算法实现bug，已修复
 
 
 ### 作业内容
